@@ -3,6 +3,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlostekk&include_all_commits=true)](https://github.com/mlostekk)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mlostekk&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/mlostekk)
+
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3290623)](3290623)
+
 <!--
 **mlostekk/mlostekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
