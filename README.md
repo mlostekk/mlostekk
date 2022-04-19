@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=3290623">
+  <a href="https://stackoverflow.com/users/3290623/martin-mlostek"><img src="https://github-readme-stackoverflow.vercel.app/?userID=3290623"></a>
   </br>
   <img src="https://github.com/mlostekk/github-stats/blob/master/generated/overview.svg">
   <img src="https://github.com/mlostekk/github-stats/blob/master/generated/languages.svg">
