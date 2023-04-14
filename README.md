@@ -7,18 +7,16 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mlostekk&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
-
-<!--
-**mlostekk/mlostekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://mastodon.online/@mlostek"><img src="assets/mastadon-240.png" width="75"></a>
+    <a href="https://soundcloud.com/mlostekk"><img src="assets/icons8-soundcloud-240.png" width="75"></a>    
+    <a href="https://open.spotify.com/artist/6d9sYakM6wp6OxtgQTshWz"><img src="assets/icons8-spotify-240.png" width="75"></a>
+    </br>
+    <a href="https://www.linkedin.com/in/mlostekk/"><img src="assets/icons8-linkedin-240.png" width="75"></a>
+    <a href="https://www.nomad5.com"><img src="assets/nomad5-logo-light@2x.png" width="75"></a>
+    <a href="https://www.youtube.com/@mlostekk"><img src="assets/icons8-youtube-240.png" width="75"></a>
+    </br>
+    <a href="https://twitter.com/mlostekk"><img src="assets/icons8-twitter-240.png" width="75"></a>
+    <a href="https://www.instagram.com/mlostekk/"><img src="assets/icons8-instagram-240.png" width="75"></a>
+    <a href="https://www.facebook.com/mlostekk"><img src="assets/icons8-facebook-240.png" width="75"></a>
+</p>
