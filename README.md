@@ -13,7 +13,6 @@
     <a href="https://open.spotify.com/artist/6d9sYakM6wp6OxtgQTshWz"><img src="assets/icons8-spotify-240.png" width="75"></a>
     </br>
     <a href="https://www.linkedin.com/in/mlostekk/"><img src="assets/icons8-linkedin-240.png" width="75"></a>
-    <a href="https://www.nomad5.com"><img src="assets/nomad5-logo-light@2x.png" width="75"></a>
     <a href="https://www.youtube.com/@mlostekk"><img src="assets/icons8-youtube-240.png" width="75"></a>
     <a href="https://twitter.com/mlostekk"><img src="assets/icons8-twitter-240.png" width="75"></a>
     </br>
